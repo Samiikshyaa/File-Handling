@@ -12,7 +12,7 @@ public class Task7 {
         InputStreamReader is = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(is);
         String line = br.readLine();
-        System.out.println("Reading...");
+        System.out.println("Reading..");
         System.out.println(line);
     }
 
